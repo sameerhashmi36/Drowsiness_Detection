@@ -4,7 +4,7 @@ Drowsiness detection is mainly if someone is sleeping or not while driving
 
 ## How to Run
 ### At First
-create an environment
+create an environment and install the requirements
 ```
 pip install -r requirements.txt
 ```
